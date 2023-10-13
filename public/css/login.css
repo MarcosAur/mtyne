@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    /*display: flex;*/
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+.login-form-border{
+    margin-left: 25vw;
+    width: 50vw;
+    margin-top: 25vh;
+    height: 50vh;
+}
+
+.button-div{
+    padding-left: 15vw;
+}
+
+.button-div button{
+    width: 20vw;
+}
